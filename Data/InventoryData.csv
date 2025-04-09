@@ -1,0 +1,8 @@
+ProductSKU,ProductName,Warehouse,CurrentStock,UnitCost
+PROD-A,Alpha Widget,WH-North,150,5.00
+PROD-B,Bravo Gadget,WH-North,200,8.00
+PROD-C,Charlie Gizmo,WH-West,120,10.00
+PROD-A,Alpha Widget,WH-South,80,5.50
+PROD-B,Bravo Gadget,WH-South,110,8.20
+PROD-C,Charlie Gizmo,WH-East,90,10.50
+PROD-A,Alpha Widget,WH-East,100,5.25
